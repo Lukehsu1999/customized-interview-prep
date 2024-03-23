@@ -11,11 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to SPLASH, your customized interview preparation platform!
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          Let's upload your resume and job description to get started!
         </p>
 
         <div className={styles.grid}>
