@@ -1,3 +1,6 @@
+import PDFUploadForm from '../../components/pdf_uploader';
 export default function Upload() {
-    return <h1>Upload your Resume and Job Description Here</h1>;
+    return (
+      <PDFUploadForm/>
+    )
   }
